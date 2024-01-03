@@ -2,8 +2,8 @@
 
 This repository contains code for a really bad error-ridden simple website about vegetables:
 
- https://code4policy.github.io/bad-veggies-website-section-b/
- 
+https://code4policy.github.io/bad-veggies-website-section-b/
+
 This repo was built to help you learn about **Git** and **GitHub**. You may learn something about how websites are built along the way too!
 
 - `index.html` contains the source code for the homepage of this website. HTML stands for "Hypertext Markup Language". Think of this page as the scaffolding for the website.
